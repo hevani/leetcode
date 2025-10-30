@@ -1,0 +1,4 @@
+/test/.settings
+*.class
+test/target/classes/META-INF/MANIFEST.MF
+/test/target/classes
