@@ -53,6 +53,7 @@ public class Queue {
 		else if (length == 1) {
 			first = null;
 			last = null;
+			length = 0;
 			return null;
 		} else {
 			Node temp = first;
