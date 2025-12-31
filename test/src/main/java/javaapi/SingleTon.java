@@ -1,4 +1,4 @@
-package test;
+package javaapi;
 
 import java.util.Scanner;
 
