@@ -11,3 +11,7 @@ test/.DS_Store
 test/src/test/.DS_Store
 .DS_Store
 test/.classpath
+/target/
+.classpath
+.settings/org.eclipse.jdt.core.prefs
+.settings/org.eclipse.m2e.core.prefs
